@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstituteWithRoles", "InstituteWithRoles\InstituteWithRoles.csproj", "{025C4901-0365-4005-B3EB-F2B757895515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstituteWithRoles.Tests", "InstituteWithRoles.Tests\InstituteWithRoles.Tests.csproj", "{182BD3ED-6E47-48FD-818F-E6FA51AFDC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025C4901-0365-4005-B3EB-F2B757895515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025C4901-0365-4005-B3EB-F2B757895515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025C4901-0365-4005-B3EB-F2B757895515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025C4901-0365-4005-B3EB-F2B757895515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182BD3ED-6E47-48FD-818F-E6FA51AFDC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182BD3ED-6E47-48FD-818F-E6FA51AFDC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182BD3ED-6E47-48FD-818F-E6FA51AFDC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182BD3ED-6E47-48FD-818F-E6FA51AFDC20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50468B86-D562-492F-87E7-F4CC0C15640E}
+	EndGlobalSection
+EndGlobal
